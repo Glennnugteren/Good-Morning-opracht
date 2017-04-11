@@ -1,0 +1,17 @@
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	text-align: center;
+	margin-top: 250px;
+	font-family: 'Chewy', cursive;
+
+}
+h1{
+	font-size: 40px;
+	margin: 0;
+}
+p{
+	margin: 0;
+}
